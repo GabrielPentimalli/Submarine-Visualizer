@@ -50,4 +50,4 @@ To modify the visualization:
 
 ## Author
 
-Gabriel Pentimalli ([@GabrielPentimalli](https://github.com/GabrielPentimalli))
+[Gabriel Pentimalli ](https://github.com/GabrielPentimalli) - gab.pentimalli@stud.uniroma3.it
