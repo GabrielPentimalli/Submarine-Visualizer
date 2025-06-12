@@ -12,7 +12,7 @@ This project visualizes a multivariate dataset using submarine silhouettes. Each
 - **Tower Height**: Size of the tower/sail above the main body
 - **Body Height**: Vertical thickness of the submarine body
 - **Periscope Radius**: Size of the periscope component
-- 
+
 
 ## How to Use
 
