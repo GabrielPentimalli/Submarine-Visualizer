@@ -33,6 +33,11 @@ To modify the visualization:
 3. Update scale domains and ranges to change how data maps to visual properties
 
 
+## Demo
+
+![Watch the interactive demo.](demo.gif)
+
+
 ## Author
 
 [Gabriel Pentimalli ](https://github.com/GabrielPentimalli) (gab.pentimalli@stud.uniroma3.it)
